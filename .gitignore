@@ -1,0 +1,28 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (keep only WA_Fn-UseC_-Telco-Customer-Churn.csv if you want)
+*.csv
+!data/WA_Fn-UseC_-Telco-Customer-Churn.csv
+
+# HTML files (saved web pages, not needed)
+
+# Model files (optional - ignore if you don’t want to push)
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+*.env
+
+# VSCode/IDE config
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
