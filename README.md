@@ -17,13 +17,21 @@ The dataset used is: WA_Fn-UseC_-Telco-Customer-Churn.csv (from IBM Sample Datas
 Telco-Churn-EDA/
 
 │── notebooks/
+
 │    ├── Telcom_Churn_analysis.ipynb   # EDA & insights
+
 │    ├── Churn_Prediction_Model.ipynb  # Model building
+
 │── models/
+
 │    ├── model.sav                     # Saved ML model
+
 │── data/
+
 │    ├── WA_Fn-UseC_-Telco-Customer-Churn.csv   (optional, or link below)
+
 │── README.md
+
 │── requirements.txt
 
 
@@ -69,10 +77,13 @@ Saved the best-performing model as model.sav
 🚀 How to Run
 
 Clone this repository
+
 git clone https://github.com/your-username/Telco-Churn-EDA.git
+
 cd Telco-Churn-EDA
 
 Install dependencies
+
 pip install -r requirements.txt
 
 Run Jupyter Notebook
