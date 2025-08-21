@@ -13,7 +13,9 @@ Model building to classify whether a customer will churn or not.
 The dataset used is: WA_Fn-UseC_-Telco-Customer-Churn.csv (from IBM Sample Datasets).
 
 📂 Project Structure
+
 Telco-Churn-EDA/
+
 │── notebooks/
 │    ├── Telcom_Churn_analysis.ipynb   # EDA & insights
 │    ├── Churn_Prediction_Model.ipynb  # Model building
